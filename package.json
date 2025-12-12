@@ -1,0 +1,24 @@
+{
+  "name": "scaffold",
+  "version": "1.0.0",
+  "private": true,
+  "description": "S C F F L D CLI",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "bun test --workspaces"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaron-G-Sanchez/SCAFFOLD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aaron-G-Sanchez/SCAFFOLD/issues"
+  },
+  "homepage": "https://github.com/Aaron-G-Sanchez/SCAFFOLD#readme"
+}
